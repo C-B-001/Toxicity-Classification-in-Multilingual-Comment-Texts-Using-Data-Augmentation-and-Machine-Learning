@@ -1,22 +1,23 @@
-# [Your Project Title Here]
+# Toxicity Classification in Multilingual Comment Texts Using Data Augmentation and Machine Learning
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/C-B-001/Toxicity-Classification-in-Multilingual-Comment-Texts-Using-Data-Augmentation-and-Machine-Learning
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+The Project was to find solutions for the Kaggle competition "Jigsaw Multilingual Toxic Comment Classification". 
+The training, evaluation and test datasets contain comment texts, which are classified as toxic or non-toxic. The training data is only in English. The evaluation and test data in multiple non-English languages. 
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Text Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** XLM-RoBERTa
+- **Evaluation Metric:** ROC-AUC
+- **Result:** 91.16%
 
 ## Documentation
 
